@@ -53,5 +53,5 @@ years_arr = years_arr[:5]
 #printing out stuff
 i=0
 for titles in titles_arr:
-	print titles + years_arr[i] + '  - ' + ratings_arr[i]
+	print ' > ' + titles + years_arr[i] + '  - ' + ratings_arr[i]
 	i += 1
