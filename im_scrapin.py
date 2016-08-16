@@ -41,7 +41,7 @@ for titles in soup.findAll('h3', {'class', 'lister-item-header'}):
 	titles_arr.append(titles.a.string)
 
 titles_arr = titles_arr[:5]
-p#rint titles_arr
+#print titles_arr
 
 
 
