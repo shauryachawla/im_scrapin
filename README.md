@@ -2,7 +2,7 @@
 Scrapes IMDB for movie ratings.
 
 <h3>Requirements</h3>
-<li>
-<ul>urllib2</ul>
-<ul>BeautifulSoup</ul>
-</li>
+<ul>
+<li>urllib2</li>
+<li>BeautifulSoup</li>
+</ul>
